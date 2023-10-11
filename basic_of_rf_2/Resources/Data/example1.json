@@ -1,0 +1,38 @@
+{
+    "id":"001",
+    "name":"Ban",
+    "surname": "Kai",
+    "items":[
+        {
+            "id":"0001",
+            "item": "lopata",
+            "date":"1/2/2021"
+        },
+        {
+            "id":"0002",
+            "item":"ryc",
+            "date":"01/02/2021"
+        },
+        {
+            "id":"0003",
+            "item":"krumpac",
+            "date":"1/12/2021"
+        },
+        {
+            "id":"0004",
+            "item":"Supr-Trupr-3000",
+            "date":"31/12/2021"
+        },
+        {
+            "id":"0005",
+            "item":"motyka",
+            "date":"12/31/2021"
+        },
+        {
+            "id":"0006",
+            "item":"zbijecka",
+            "date":"21-10-2021"
+        }
+    ],
+    "promenna": "${tbd}"
+}
